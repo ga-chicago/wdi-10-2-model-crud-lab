@@ -1,8 +1,5 @@
-![ga-cog](https://camo.githubusercontent.com/6ca75e52ba7cf640161aefd5355a4fbfff7d5f18/687474703a2f2f6d6f62626f6f6b2e67656e6572616c617373656d622e6c792f67615f636f672e706e67)
 
 # Lab: Two Model (no relationship) CRUD
-
-![bashir](https://m0vie.files.wordpress.com/2016/11/ds9-doctorbashiripresume19.jpg?w=468)
 
 ## The idea
 
@@ -18,16 +15,6 @@
 
 
 ## One computer, one driver, one navigator. Make a commit after each step.
-
-### Groups
-
-```
-anthony ryne
-ethan jackson
-charles kait
-michael somers sierra
-sergio travis
-```
 
 ### Setup
 
